@@ -28,6 +28,8 @@ namespace home_library_manager
             btnAdd.Text = "Add Book";
             titleLabel.Text = "Add a Book to Your Library";
             this.Text = "Add a New Book";
+
+            btnAdd.DialogResult = DialogResult.None;
         }
 
         public AddBook_Form(int bookId, string title, string author, string genre, string room) : this()
@@ -42,6 +44,8 @@ namespace home_library_manager
             btnAdd.Text = "Update";
             titleLabel.Text = "Edit the Details of this Book";
             this.Text = "Edit Book Details";
+
+            btnAdd.DialogResult = DialogResult.OK;
 
             this.Shown += (s, e) =>
             {

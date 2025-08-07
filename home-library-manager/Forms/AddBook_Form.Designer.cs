@@ -45,7 +45,6 @@
             // btnBack
             // 
             this.btnBack.BackColor = System.Drawing.Color.Snow;
-            this.btnBack.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnBack.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnBack.Location = new System.Drawing.Point(170, 520);
             this.btnBack.Name = "btnBack";

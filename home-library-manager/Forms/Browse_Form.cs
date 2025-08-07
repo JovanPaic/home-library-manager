@@ -163,7 +163,7 @@ namespace home_library_manager
 
             using (Form editForm = new AddBook_Form(id, title, author, genre, room))
             {
-                if (editForm.ShowDialog() != DialogResult.Cancel)
+                if (editForm.ShowDialog() == DialogResult.OK)
                 {
                     UpdateDataAfterEdit(id);
                 }
