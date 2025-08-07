@@ -1,0 +1,13 @@
+C:\Users\JovanMilos\Desktop\Jovanov folder\Visual Studio\home-library-managment\home-library-managment\bin\Release\Database.mdf
+C:\Users\JovanMilos\Desktop\Jovanov folder\Visual Studio\home-library-managment\home-library-managment\bin\Release\Database_log.ldf
+C:\Users\JovanMilos\Desktop\Jovanov folder\Visual Studio\home-library-managment\home-library-managment\bin\Release\home-library-managment.exe.config
+C:\Users\JovanMilos\Desktop\Jovanov folder\Visual Studio\home-library-managment\home-library-managment\bin\Release\home-library-managment.exe
+C:\Users\JovanMilos\Desktop\Jovanov folder\Visual Studio\home-library-managment\home-library-managment\bin\Release\home-library-managment.pdb
+C:\Users\JovanMilos\Desktop\Jovanov folder\Visual Studio\home-library-managment\home-library-managment\obj\Release\home_library_managment.AddBook_Form.resources
+C:\Users\JovanMilos\Desktop\Jovanov folder\Visual Studio\home-library-managment\home-library-managment\obj\Release\home_library_managment.Find_Form.resources
+C:\Users\JovanMilos\Desktop\Jovanov folder\Visual Studio\home-library-managment\home-library-managment\obj\Release\home_library_managment.Main_Form.resources
+C:\Users\JovanMilos\Desktop\Jovanov folder\Visual Studio\home-library-managment\home-library-managment\obj\Release\home_library_managment.Properties.Resources.resources
+C:\Users\JovanMilos\Desktop\Jovanov folder\Visual Studio\home-library-managment\home-library-managment\obj\Release\home-library-managment.csproj.GenerateResource.cache
+C:\Users\JovanMilos\Desktop\Jovanov folder\Visual Studio\home-library-managment\home-library-managment\obj\Release\home-library-managment.csproj.CoreCompileInputs.cache
+C:\Users\JovanMilos\Desktop\Jovanov folder\Visual Studio\home-library-managment\home-library-managment\obj\Release\home-library-managment.exe
+C:\Users\JovanMilos\Desktop\Jovanov folder\Visual Studio\home-library-managment\home-library-managment\obj\Release\home-library-managment.pdb
