@@ -47,9 +47,9 @@ namespace home_library_manager
             {
                 rtbTitle.Focus();
                 rtbTitle.SelectionStart = rtbTitle.Text.Length;
-                rtbAuthor.SelectionStart = rtbTitle.Text.Length;
-                rtbGenre.SelectionStart = rtbTitle.Text.Length;
-                rtbRoom.SelectionStart = rtbTitle.Text.Length;
+                rtbAuthor.SelectionStart = rtbAuthor.Text.Length;
+                rtbGenre.SelectionStart = rtbGenre.Text.Length;
+                rtbRoom.SelectionStart = rtbRoom.Text.Length;
             };
         }
 
