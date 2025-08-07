@@ -162,7 +162,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Tan;
             this.ClientSize = new System.Drawing.Size(584, 584);
-            this.ControlBox = false;
             this.Controls.Add(this.rtbRoom);
             this.Controls.Add(this.rtbGenre);
             this.Controls.Add(this.rtbAuthor);

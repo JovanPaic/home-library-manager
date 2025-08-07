@@ -46,7 +46,14 @@ namespace home_library_manager
             dataGrid.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
             dataGrid.DefaultCellStyle.SelectionBackColor = Color.LightSkyBlue;
             dataGrid.DefaultCellStyle.SelectionForeColor = Color.Black;
-            dataGrid.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+
+			int totalGridSize = dataGrid.Width;
+            dataGrid.Columns[1].Width =  (int)(totalGridSize * 0.28);
+            dataGrid.Columns[2].Width = (int)( totalGridSize * 0.27 );
+			dataGrid.Columns[3].Width = (int)( totalGridSize * 0.20 );
+            dataGrid.Columns[4].AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
+
+
             dataGrid.Columns["Id"].Visible = false; 
             dataGrid.ScrollBars = ScrollBars.Vertical;
         }
